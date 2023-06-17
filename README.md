@@ -6,7 +6,7 @@
 ```
 ### I am interested in
 ```bash
-> Reverse Engineer
+> Reverse Engineering
 > Malware Development 
 ```
 
