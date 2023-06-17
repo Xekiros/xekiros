@@ -1,8 +1,7 @@
 ### About me
 
 ```bash
-> Backend Developer (Javascript, Python)
-> Currently learning Golang 
+> Backend Developer
 ```
 ### I am interested in
 ```bash
