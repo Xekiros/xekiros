@@ -2,7 +2,7 @@
 
 ```bash
 > Backend Developer (Javascript, Python)
-> Currently learning Golang and 
+> Currently learning Golang 
 ```
 ### I am interested in
 ```bash
