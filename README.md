@@ -1,8 +1,13 @@
-### Hi
+### About me
 
 ```bash
-> Backend Developer (Javascript, Typescript, Python)
-> Currently learning Golang
+> Backend Developer (Javascript, Python)
+> Currently learning Golang and 
+```
+### I am interested in
+```bash
+> Reverse Engineer
+> Malware Development 
 ```
 
 ### Contact info:
