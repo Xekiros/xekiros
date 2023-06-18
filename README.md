@@ -2,12 +2,8 @@
 
 ```bash
 > Backend Developer
-```
-### I am interested in
-```bash
 > Reverse Engineering
 > Malware Development 
-```
 
 ### Contact info:
 ```bash
