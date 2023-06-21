@@ -7,5 +7,5 @@
 ### Contact info:
 ```bash
 > Twitter: @0xv01dx
-> Discord: ssh#0001
+> Discord: @xekiros
 ```
